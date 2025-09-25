@@ -28,6 +28,7 @@ through the list of available commands. You can also quickly move to any of the 
 
 -  <Key mod="ctrl" k="O" /> (the letter O, not zero) this will close the file and list other available files to open.
    On macOS, you can also use the <Key mod="cmd" k="O" /> key combination.
+-  <Key mod="ctrl" k="shift" k="P" /> toggles the [Privacy Filter](#Scramble and Hide Data) on or off.
 
 
 ### Within the Budget View
